@@ -1,0 +1,2 @@
+Edit the VMX file and add:
+smc.version = "0"
